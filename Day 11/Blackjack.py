@@ -105,4 +105,4 @@ while play_again == 'y':
     play_again = input("Do you want to play a game of Blackjack? Type 'y' or 'n': ")
     if play_again == 'y':
         restart_game()
-            
+        print("___________________________________________________")
